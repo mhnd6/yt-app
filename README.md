@@ -6,4 +6,7 @@
 > For learning and testing purposes I choose youtube API to create a React app (javascript framework) to do a search and show the videos in my app
 
 ## Tools 
-> * JavaScript * React * React hooks * axios  
+> * JavaScript
+> * React
+> * React hooks 
+> * axios  
