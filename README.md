@@ -3,7 +3,7 @@
 ![Image of demo](https://github.com/mhnd6/yt-app/blob/master/Capture.PNG)
 
 ## Description
-> For learning and testing purposes I created React app (javascript framework) to do a search using YouTube API and show the videos the app
+> For learning and testing purposes I created React app (javascript framework) to do a search using YouTube API and show the videos in the app
 
 ## Tools 
 > * JavaScript
